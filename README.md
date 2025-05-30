@@ -273,7 +273,7 @@ Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para
 
 ## ✉️ Contacto
 
-**Autor**: Néstor Enrique Forero Herrera  
+**Autor**: Enrique Forero.  
 **Email**: enrique.economista@gmail.com  
 **GitHub**: https://github.com/EnriqueForero 
 **LinkedIn**: https://www.linkedin.com/in/enriqueforero/
