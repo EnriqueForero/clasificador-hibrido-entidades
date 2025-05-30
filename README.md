@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.x+-blue.svg)](https://pandas.pydata.org/)
 [![Openpyxl](https://img.shields.io/badge/Openpyxl-3.x+-green.svg)](https://openpyxl.readthedocs.io/en/stable/)
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/](https://colab.research.google.com/drive/1qFzpTWwm2tudSYiRQmF19gawhI0BZDfT#scrollTo=5zNJTO-0nXYH)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qFzpTWwm2tudSYiRQmF19gawhI0BZDfT#scrollTo=5zNJTO-0nXYH)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## 📝 Descripción
